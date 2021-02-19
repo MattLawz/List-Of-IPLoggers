@@ -4,7 +4,7 @@
 ## Get The List
 [PasteBin](https://raw.githubusercontent.com/MattLawz/List-Of-IPLoggers/main/pastebin.txt)
 
-[Download](https://github.com/MattLawz/List-Of-IPLoggers/releases/download/V1.0/list.txt)
+[Download](https://filedm.com/KjWDi)
 ## Who Is This For?
 Usually discord server owners, and website developers.
 
