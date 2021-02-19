@@ -1,4 +1,5 @@
 # List Of IP Loggers
+![Downloads](https://img.shields.io/github/downloads/MattLawz/List-Of-IPLoggers/total)
 
 ## Who Is This For?
 Usually, discord server owners.
